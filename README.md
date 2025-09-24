@@ -1,4 +1,4 @@
-# Projeto: rolarDado 🎲
+# Projeto: rolarDados 🎲
 
 Este projeto é um exemplo simples em **Java** que simula o **rolar de um tipo dado**.  
 Ele foi desenvolvido como parte de um exercício e pode ser executado tanto no **terminal** quanto em **IDEs** como VS Code, Eclipse ou IntelliJ.
